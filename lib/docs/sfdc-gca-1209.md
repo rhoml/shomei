@@ -1,6 +1,6 @@
 # Guest Confidentiality Agreement
 
-salesforce.com, inc.
+permeate, inc.
 
 THIS GUEST CONFIDENTIALITY AGREEMENT (this “**Agreement**”) is made and entered
 into as of Effective Date below.
@@ -12,9 +12,9 @@ into as of Effective Date below.
     </td>
 
     <td>
-      salesforce.com, inc., a Delaware corporation and any other present or
+      permeate.com, inc., an Spanish corporation and any other present or
       future entity controlling, controlled by, or under common control with such
-      salesforce.com, inc. (including without limitation Heroku)
+      permeate.com, inc.
     </td>
   </tr>
 
